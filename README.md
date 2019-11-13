@@ -5,6 +5,7 @@ Java, Selenium WebDriver
 
 #### JustDial Search Automation
 1) Search for trains between given location and time
-  
+
+![automated](./TrainSearchAutomation.gif)
 
  
